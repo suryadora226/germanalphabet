@@ -151,6 +151,7 @@ public class MainActivity extends AppCompatActivity
     // ── UI Construction ──────────────────────────────────────────────────────
 
     private void buildUI() {
+
         // Root scroll view
         ScrollView scroll = new ScrollView(this);
         scroll.setBackgroundColor(Color.parseColor("#FFF9F0"));
